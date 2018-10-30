@@ -3,9 +3,34 @@ header{
   color: black;
   text-align: center;
   background-image: url(watermelon.jpg);
+  padding: 40px;
+  margin-left: 150px;
+  margin-right: 150px;
+}
+.tea{
+  background-color: white;
+  padding: 20px;
+}
+p{
+  text-align: center;
+  margin: 30px;
+}
+h2, ul{
+  text-align: center;
+}
+table{
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+}
+li{
+  list-style: none;
 }
 address{
   background-color: #ea5169;
   color: black;
   text-align: center;
+  padding: -30px;
+  margin-left: 150px;
+  margin-right: 150px;
 }
